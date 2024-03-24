@@ -1,0 +1,29 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:UnlockCode_Calculator.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="UnlockCode_Calculator.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="UnlockCode_Calculator"
+        ClientSize="300 150">
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Orientation="Vertical" Margin="12">
+            <TextBlock FontSize="20" >ADB</TextBlock>
+            <TextBox x:Name="Adb"></TextBox>
+            <Button HorizontalAlignment="Center" Margin="5" Click="AdbCalc">Calc!</Button>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Margin="12">
+            <TextBlock FontSize="20">SELFTEST</TextBlock>
+            <TextBox x:Name="SelfTest"></TextBox>
+            <Button HorizontalAlignment="Center" Margin="5" Click="SelfTestCalc">Calc!</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

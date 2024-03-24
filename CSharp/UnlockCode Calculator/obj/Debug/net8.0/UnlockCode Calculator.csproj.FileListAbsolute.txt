@@ -1,0 +1,136 @@
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\UnlockCode Calculator.exe
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\UnlockCode Calculator.deps.json
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\UnlockCode Calculator.runtimeconfig.json
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\UnlockCode Calculator.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\UnlockCode Calculator.pdb
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Base.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Controls.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Dialogs.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Markup.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Metal.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.MicroCom.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.OpenGL.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Desktop.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Native.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Skia.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.Win32.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Avalonia.X11.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\DynamicData.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\MicroCom.Runtime.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ReactiveUI.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\SkiaSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Splat.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\System.Reactive.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.csproj.AssemblyReference.cache
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\Avalonia\resources
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.AssemblyInfoInputs.cache
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.AssemblyInfo.cs
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.csproj.CoreCompileInputs.cache
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\Avalonia\references
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\Avalonia\original.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\Avalonia\original.pdb
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\refint\UnlockCode Calculator.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.dll
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.pdb
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCo.672F39A0.Up2Date
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\UnlockCode Calculator.genruntimeconfig.cache
+D:\RiderProjects\UnlockCode Calculator\UnlockCode Calculator\obj\Debug\net8.0\ref\UnlockCode Calculator.dll
