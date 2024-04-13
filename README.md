@@ -13,3 +13,5 @@ Csharp->/bin/Release
 Java->/bin
 
 如果本项目侵犯了您的权益，请在Issues中请求删除
+
+本项目目前失效
